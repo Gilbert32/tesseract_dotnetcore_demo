@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.nuget/packages/tesseract/4.1.0-beta1/x64/leptonica-1.78.0.dll" />
+    <content url="file://$USER_HOME$/.nuget/packages/tesseract/4.1.0-beta1/x64/tesseract41.dll" />
+    <content url="file://$USER_HOME$/.nuget/packages/tesseract/4.1.0-beta1/x86" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
