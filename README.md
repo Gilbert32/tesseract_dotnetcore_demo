@@ -1,4 +1,4 @@
-# Tesseract Demo
+# Tesseract .NET Core Demo
 This demo works on dotnet core, under linux. The following code was used to build leptonica:
 ```
 cd ~/projects
@@ -29,3 +29,13 @@ cp libleptonica.so.1.78.0 $HOME/RiderProjects/tesseract_demo/tesseract_demo/x64/
 ```
 
 The project contains an image for testing.
+
+## Docker instructions
+
+You can run this code using Docker, in Linux/MacOs environments.
+
+This was not tested on windows.
+The easiest way to get started:
+```
+docker-compose up --build
+```
